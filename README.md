@@ -1,1 +1,1 @@
-Apenas alguns exercícios para treinar na linguagem.
+Some fun codes.
