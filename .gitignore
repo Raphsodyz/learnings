@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.db
+
+wallet_state
+Bitcoin/Vinteum/create-your-wallet/scripts/*.txt
+Bitcoin/Vinteum/create-your-wallet/src/libs/sqlite
